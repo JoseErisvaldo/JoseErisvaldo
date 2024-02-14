@@ -21,3 +21,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+![José Erisvaldo dos Santos](https://github-readme-stats.vercel.app/api?username=joseerisvaldo&show_icons=true&theme=dracula)
