@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 22 anos de idade, quando queria criar um robo para investimentos na bolsa de valores. Depois de muita pesquisa consegui desenvolver. Desde então, eu decidi que eu queria me aprofundar na linguagem de progamação — eu queria ser um programador.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por games. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 🕹️ &nbsp; Sou apaixonado por games. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
