@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o José, um desenvolvedor Fron-End, apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o José, um desenvolvedor Front-End, apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.instagram.com/jose.erisvaldo/"><img src="https://img.shields.io/badge/-@jose.erisvaldo_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jos%C3%A9erisvaldodossantos/"><img src="https://img.shields.io/badge/-José%20Erisvaldo%20dos%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
