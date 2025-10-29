@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React Query-FF4154?style=flat"/>
 <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ShadCN/UI-333333?style=flat"/>
 <img src="https://img.shields.io/badge/-Zod-FF0000?style=flat"/>
